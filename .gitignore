@@ -1,0 +1,20 @@
+# Compiled Python Modules
+*.pyc
+__pycache__/
+
+# Local files
+.vscode
+sample.py
+notes.txt
+snippets.py
+.DS_Store
+
+# Python egg metadata, regenerated from source files by setuptools
+/*.egg-info
+
+# Setuptools distribution folder
+dist/
+
+# Build folder
+build/
+
